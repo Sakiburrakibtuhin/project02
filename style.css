@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+   font-size: 35px;
+   color: rgb(236, 57, 126);
+}
+.section{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.section img{
+   width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(44, 179, 233), rgb(247, 110, 100));
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+.banner1{
+    background-image: url("img/header-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.banner2{ background-image: url("img/biography-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.lw{
+    text-align: center;
+}
+.lw-section{
+    width: 25%;
+    float: left;
+    padding: 2%;
+    
+}
+#lw-img{
+    margin-left: 15%;
+    padding-top: 8%;
+}
+.banner3{ background-image: url("img/latest-work-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.alex{
+    font-weight: 900;
+}
+#ceo{
+    margin-top: 10%;
+}
+#box{ color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, orange, hotpink);
+    padding:10px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+
+}
+.banner4{
+    background-image: url("img/footer-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+}
+footer{
+    font-size: 12px;
+}
